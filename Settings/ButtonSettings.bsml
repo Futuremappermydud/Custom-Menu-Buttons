@@ -1,0 +1,9 @@
+﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+  <vertical spacing='5' child-expand-height='false'>
+    <text text='Unset' id='overrideName'/>
+    <checkbox-setting text='Enabled' hover-hint='Enabled' id='Enabled'/>
+    <checkbox-setting text='Override Text' hover-hint='Override Text' id='OverrideText'/>
+    <checkbox-setting text='Override Image' hover-hint='Override Image' id='OverrideImage'/>
+    <string-setting text='Image Pair' hover-hint='Image Pair' id='ImagePair'/>
+  </vertical>
+</bg>

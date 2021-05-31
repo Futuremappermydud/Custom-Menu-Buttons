@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "CustomMenuButtons",
+  "name": "Custom Menu Buttons",
+  "author": "FutureMapper",
+  "version": "0.2.5",
+  "description": "Allows you to customize your menu buttons.",
+  "gameVersion": "1.16.1",
+  "dependsOn": {
+    "BSIPA": "^4.1.0",
+    "BS Utils": "^1.8.0",
+    "BeatSaberMarkupLanguage": "^1.5.0"
+  }
+}

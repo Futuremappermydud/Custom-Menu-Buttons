@@ -1,0 +1,196 @@
+﻿{
+    "FuckYouBeatgamesWhyCantSpritePositionsBeConsistantDearLordIHateMyLife": {
+        "AvatarButton": {
+            "x": 0.0,
+            "y": 1528.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "AvatarHighlightButton": {
+            "x": 269.0,
+            "y": 1528.0,
+            "width": 267.0,
+            "height": 259.9487
+        },
+        "CampaignButton": {
+            "x": 306.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "CampaignButtonOverlay": {
+            "x": 0.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "CampaignHighlightButton": {
+            "x": 1530.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "CreateServerButton": {
+            "x": 807.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "CreateServerHighlightButton": {
+            "x": 0.0,
+            "y": 1266.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "EditorButton": {
+            "x": 1076.0,
+            "y": 1266.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "EditorHighlightButton": {
+            "x": 1614.0,
+            "y": 1112.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "ExitButton": {
+            "x": 1184.0,
+            "y": 1266.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "ExitHighlightButton": {
+            "x": 1614.0,
+            "y": 1004.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "HelpButton": {
+            "x": 1076.0,
+            "y": 1482.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "HelpHighlightButton": {
+            "x": 0.0,
+            "y": 1790.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "JoinViaCodeButton": {
+            "x": 269.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "JoinViaCodeHighlightButton": {
+            "x": 1345.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "LocalPartyButton": {
+            "x": 1530.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "LocalPartyButtonOverlay": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "LocalPartyHighlightButton": {
+            "x": 918.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "OnlineButton": {
+            "x": 306.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "OnlineButtonOverlay": {
+            "x": 612.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "OnlineHighlightButton": {
+            "x": 918.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "OptionsButton": {
+            "x": 1076.0,
+            "y": 1374.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "OptionsHighlightButton": {
+            "x": 1836.0,
+            "y": 0.0,
+            "width": 106.0,
+            "height": 106.0
+        },
+        "PlayerSettingsButton": {
+            "x": 0.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "PlayerSettingsHighlightButton": {
+            "x": 1076.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "QuickPlayButton": {
+            "x": 269.0,
+            "y": 1266.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "QuickPlayHighlightButton": {
+            "x": 538.0,
+            "y": 1004.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "SettingsButton": {
+            "x": 538.0,
+            "y": 1266.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "SettingsHighlightButton": {
+            "x": 807.0,
+            "y": 1266.0,
+            "width": 267.0,
+            "height": 260.0
+        },
+        "SoloButton": {
+            "x": 1224.0,
+            "y": 502.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "SoloButtonOverlay": {
+            "x": 1224.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        },
+        "SoloHighlightButton": {
+            "x": 612.0,
+            "y": 0.0,
+            "width": 304.0,
+            "height": 500.0
+        }
+    }
+}

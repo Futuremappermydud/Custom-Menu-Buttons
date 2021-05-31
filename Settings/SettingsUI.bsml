@@ -1,0 +1,17 @@
+﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+  <tab-selector tab-tag='SettingsTab'/>
+  <tab tags='SettingsTab' tab-name='Pairs'>
+    <vertical pad-top='12' spacing='1'>
+      <page-button event-click='pairList#PageUp' direction='Up' />
+      <list id='pairList' expand-cell='true' select-cell='pairSelect' />
+      <page-button event-click='pairList#PageDown' direction='Down' />
+    </vertical>
+  </tab>
+  <tab tags='SettingsTab' tab-name='Overrides'>
+    <vertical pad-top='12' spacing='1'>
+      <page-button event-click='overrideList#PageUp' direction='Up' />
+      <list id='overrideList' expand-cell='true' select-cell='overrideSelect' />
+      <page-button event-click='overrideList#PageDown' direction='Down' />
+    </vertical>
+  </tab>
+</bg>

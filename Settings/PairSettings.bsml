@@ -1,0 +1,7 @@
+﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+  <vertical spacing='5' child-expand-height='false'>
+    <text text='Unset' id='pairName'/>
+    <string-setting text='Unselected Path' hover-hint='Path To The Unselected Image' id='UnselectedPath'/>
+    <string-setting text='Selected Path' hover-hint='Path To The Selected Image' id='SelectedPath'/>
+  </vertical>
+</bg>
